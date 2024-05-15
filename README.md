@@ -10,3 +10,4 @@ Open doors / Talk to NPCs / Pickup items - Left Click
 Open inventory in editor - TAB
 Rotate objects in editor - R
 Exit editor - ESC
+
