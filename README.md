@@ -1,4 +1,4 @@
-Trailer: https://youtu.be/KCMkiaubMuI?si=DjREFG8cYrWH5jE4 <br/>
+Showcase: https://youtu.be/KCMkiaubMuI?si=DjREFG8cYrWH5jE4 <br/>
  <br/>
 Fullscreen - F11 / Alt+Enter <br/>
 <br/>
